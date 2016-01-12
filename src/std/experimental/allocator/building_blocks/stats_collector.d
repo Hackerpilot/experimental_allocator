@@ -653,7 +653,7 @@ public:
 }
 
 ///
-version(none) unittest
+unittest
 {
     import std.experimental.allocator.gc_allocator : GCAllocator;
     import std.experimental.allocator.building_blocks.free_list : FreeList;
