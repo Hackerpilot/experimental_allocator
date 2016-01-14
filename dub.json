@@ -1,0 +1,10 @@
+{
+	"name": "experimental_allocator",
+	"targetName": "experimental_allocator",
+	"targetType": "library",
+	"description": "LDC and GDC-compatible backport of Phobos' std.experimental.allocator",
+	"license": "BSL-1.0",
+	"version": "2.070.0-b1",
+	"importPaths": ["src"],
+	"sourcePaths": ["src"]
+}
